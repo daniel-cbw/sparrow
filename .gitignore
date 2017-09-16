@@ -11,3 +11,6 @@ _ide_helper*.php
 /public/js
 /public/media
 /public/mix-manifest.json
+
+# OTHER
+.DS_Store
